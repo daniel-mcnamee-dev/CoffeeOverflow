@@ -16,6 +16,14 @@ Designed with a dark developer-centric aesthetic, the project combines a full sh
 
 ---
 
+## Live Demo
+
+https://coffeeoverflow.onrender.com
+
+Note: The server may take ~30 seconds to wake up on the first visit because it is hosted on Render's free tier.
+
+---
+
 # Features
 
 - Dynamic coffee product catalogue
