@@ -78,107 +78,101 @@ Open in your browser
 
 ## Homepage
 
-Hero Section
+<p align="center">
+<img src="Screenshots/01.%20HomepageHero.png" width="85%">
+</p>
 
-![Hero](Screenshots/01.%20HomepageHero.png)
+<p align="center">
+<img src="Screenshots/02.%20HomepageCarousel.png" width="45%">
+<img src="Screenshots/03.%20HomepageCarousel.png" width="45%">
+</p>
 
-Product Carousel
+<p align="center">
+<img src="Screenshots/04.%20HomepageTrustpilotNewsletter.png" width="45%">
+<img src="Screenshots/05.%20HomepageVisitUs.png" width="45%">
+</p>
 
-![Carousel](Screenshots/02.%20HomepageCarousel.png)
-
-More Featured Products
-
-![Carousel2](Screenshots/03.%20HomepageCarousel.png)
-
-Testimonials and Newsletter
-
-![Testimonials](Screenshots/04.%20HomepageTrustpilotNewsletter.png)
-
-Visit Us Section
-
-![Visit](Screenshots/05.%20HomepageVisitUs.png)
-
-Social Media
-
-![Instagram](Screenshots/06.%20HomepageInsta.png)
-
-FAQ Section
-
-![FAQ](Screenshots/07.%20HomepageAccordionFooter.png)
+<p align="center">
+<img src="Screenshots/06.%20HomepageInsta.png" width="45%">
+<img src="Screenshots/07.%20HomepageAccordionFooter.png" width="45%">
+</p>
 
 ---
 
 # Shop
 
-Standard Product View
-
-![Shop](Screenshots/08.%20ShopStandard.png)
-
-Filtered Products
-
-![Shop Filtered](Screenshots/09.%20ShopFiltered.png)
+<p align="center">
+<img src="Screenshots/08.%20ShopStandard.png" width="45%">
+<img src="Screenshots/09.%20ShopFiltered.png" width="45%">
+</p>
 
 ---
 
 # About Page
 
-![About](Screenshots/10.%20About.png)
+<p align="center">
+<img src="Screenshots/10.%20About.png" width="45%">
+<img src="Screenshots/11.%20About.png" width="45%">
+</p>
 
-![About](Screenshots/11.%20About.png)
+<p align="center">
+<img src="Screenshots/12.%20About.png" width="45%">
+<img src="Screenshots/13.%20About.png" width="45%">
+</p>
 
-![About](Screenshots/12.%20About.png)
-
-![About](Screenshots/13.%20About.png)
-
-![About](Screenshots/14.%20About.png)
+<p align="center">
+<img src="Screenshots/14.%20About.png" width="85%">
+</p>
 
 ---
 
 # Contact
 
-![Contact](Screenshots/15.%20Contact.png)
+<p align="center">
+<img src="Screenshots/15.%20Contact.png" width="85%">
+</p>
 
 ---
 
 # Authentication
 
-Login
-
-![Login](Screenshots/16.%20Login.png)
-
-Signup
-
-![Signup](Screenshots/17.%20Signup.png)
+<p align="center">
+<img src="Screenshots/16.%20Login.png" width="45%">
+<img src="Screenshots/17.%20Signup.png" width="45%">
+</p>
 
 ---
 
 # User Profile
 
-![Profile](Screenshots/18.%20Profile.png)
+<p align="center">
+<img src="Screenshots/18.%20Profile.png" width="70%">
+</p>
 
 ---
 
 # Membership System
 
-![Membership](Screenshots/19.%20Membership.png)
+<p align="center">
+<img src="Screenshots/19.%20Membership.png" width="70%">
+</p>
 
 ---
 
 # Shopping Cart
 
-![Cart](Screenshots/20.%20Cart.png)
+<p align="center">
+<img src="Screenshots/20.%20Cart.png" width="70%">
+</p>
 
 ---
 
 # Checkout
 
-Checkout Page
-
-![Checkout](Screenshots/21.%20Checkout.png)
-
-Successful Checkout
-
-![Checkout Success](Screenshots/22.%20CheckoutSuccessful.png)
+<p align="center">
+<img src="Screenshots/21.%20Checkout.png" width="45%">
+<img src="Screenshots/22.%20CheckoutSuccessful.png" width="45%">
+</p>
 
 ---
 
