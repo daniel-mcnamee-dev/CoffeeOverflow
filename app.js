@@ -1,8 +1,13 @@
 import express from "express";
 import { engine } from "express-handlebars";
 import fs from "fs";
+import path from "path";
+import { fileURLToPath } from "url";
 
 const app = express();
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 
 // -------------- HANDLEBARS SETUP ---------------
 app.engine("hbs", engine({
@@ -17,12 +22,14 @@ app.set("views", "./views");
 
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
-app.use(express.static("public"));
+app.use(express.static(path.join(__dirname, "public")));
 
 // ------------ LOAD PRODUCTS.JSON -------------
 let products = [];
 try {
-    products = JSON.parse(fs.readFileSync("./public/data/products.json"));
+    products = JSON.parse(
+        fs.readFileSync(path.join(__dirname, "public/data/products.json"))
+    );
     console.log("Loaded products.json");
 } catch (err) {
     console.log("ERROR loading products.json:", err);
