@@ -1,6 +1,12 @@
 # CoffeeOverflow
 
-CoffeeOverflow is a developer-themed coffee storefront built with **Node.js, Express, and Handlebars**.
+![Node.js](https://img.shields.io/badge/Node.js-Backend-green)
+![Express](https://img.shields.io/badge/Express.js-Framework-lightgrey)
+![Handlebars](https://img.shields.io/badge/Handlebars-Templating-orange)
+![JavaScript](https://img.shields.io/badge/JavaScript-Frontend-yellow)
+![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
+
+CoffeeOverflow is a developer-themed coffee storefront built with Node.js, Express, and Handlebars.
 
 The application simulates a modern online coffee shop experience including product browsing, cart management, checkout, user authentication, and membership subscriptions.
 
