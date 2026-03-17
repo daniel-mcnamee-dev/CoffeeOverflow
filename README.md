@@ -5,6 +5,7 @@
 ![Handlebars](https://img.shields.io/badge/Handlebars-Templating-orange)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Frontend-yellow)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Site-brightgreen?style=for-the-badge)](https://coffeeoverflow.onrender.com)
 
 CoffeeOverflow is a developer-themed coffee storefront built with Node.js, Express, and Handlebars.
 
